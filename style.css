@@ -5,7 +5,7 @@
     --cor-de-fundo: hwb(0 16% 79%);
     --fundo-senha: lch(82.61% 44.11 207.14 / 0.514);
     --fundo-texto: hwb(288 15% 11%);
-    --borda: hsla(300, 80%, 51%, 0);
+    --borda: hwb(300 8% 89% / 0.767);
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
